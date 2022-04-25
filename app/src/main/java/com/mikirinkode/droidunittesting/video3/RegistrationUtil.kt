@@ -1,4 +1,4 @@
-package com.mikirinkode.droidunittesting
+package com.mikirinkode.droidunittesting.video3
 
 object RegistrationUtil {
 

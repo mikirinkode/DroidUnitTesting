@@ -1,4 +1,4 @@
-package com.mikirinkode.droidunittesting
+package com.mikirinkode.droidunittesting.video3
 
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
